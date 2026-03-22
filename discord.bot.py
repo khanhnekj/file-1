@@ -23,8 +23,8 @@ from treo_core import (
 )
 
 # ==================== CẤU HÌNH ====================
-TOKEN = "MTQ4MjIxNTkzNzEzMzUxNDc2Mg.GbIEw6.2Bueo6tOMlFUDCFA2Lue9PU0g-fzGJflcsIstk"  # Thay token của bạn
-ADMIN_IDS = [1153524502630760498]  # Thay ID Discord admin
+TOKEN = "MTQ4NTE0NDU3NDY1MjMyMTg1NA.Gy-tvK.RlYUiPRYoD8FLSUY0lav7DQBZkuP0XB2hXwpJI"  # Thay token của bạn
+ADMIN_IDS = [1321845869133303840]  # Thay ID Discord admin
 
 # Timezone Việt Nam
 VIETNAM_TZ = pytz.timezone('Asia/Ho_Chi_Minh')
